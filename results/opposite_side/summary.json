@@ -1,0 +1,20 @@
+{
+  "avoidance_active_time_s": 52.51768200000022,
+  "control_samples": 228,
+  "deadline_s": 0.3,
+  "diagnostic_samples": 226,
+  "max_abs_acceleration_mps2": 0.3050735135,
+  "max_abs_steering_deg": 30.244465953734846,
+  "max_abs_steering_rate_deg_s": 23.999570844376183,
+  "max_constraint_violation": 0.0,
+  "max_safety_slack_m2": 2.74157851e-05,
+  "max_solve_time_s": 0.292164832,
+  "max_velocity_mps": 1.11304613,
+  "mean_solve_time_s": 0.07221467758035398,
+  "min_mrt_physical_margin_m2": 2.468911253,
+  "min_rov_physical_margin_m2": 10.29893911,
+  "min_velocity_mps": 0.2000000618,
+  "p95_solve_time_s": 0.259505368,
+  "solve_samples_over_deadline": 0,
+  "state_samples": 228
+}

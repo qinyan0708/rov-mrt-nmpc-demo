@@ -1,0 +1,14 @@
+.venv*/
+build/
+install/
+log/
+bags/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+*.mcap
+*.db3
